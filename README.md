@@ -1,2 +1,2 @@
 # rust-sandbox
-Experiments with Rust
+Rust learning exercises.
